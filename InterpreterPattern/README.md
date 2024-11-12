@@ -1,10 +1,10 @@
-# Patrón de Diseño: 
+# Patrón de Diseño: Interpreter
 
 ## Objetivo
 
 
 ## Diagrama de clases
-![Diagrama de clases del patrón de comportamiento ](src/main/resources/img/image.png)
+![Diagrama de clases del patrón de comportamiento Interpreter](src/main/resources/img/image.png)
 
 ## Estructura
 

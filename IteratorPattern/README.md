@@ -1,10 +1,10 @@
-# Patrón de Diseño: 
+# Patrón de Diseño: Iterator
 
 ## Objetivo
 
 
 ## Diagrama de clases
-![Diagrama de clases del patrón de comportamiento ](src/main/resources/img/image.png)
+![Diagrama de clases del patrón de comportamiento Iterator](src/main/resources/img/image.png)
 
 ## Estructura
 

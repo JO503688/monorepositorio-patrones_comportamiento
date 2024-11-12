@@ -1,10 +1,10 @@
-# Patrón de Diseño: 
+# Patrón de Diseño: Mediator
 
 ## Objetivo
 
 
 ## Diagrama de clases
-![Diagrama de clases del patrón de comportamiento ](src/main/resources/img/image.png)
+![Diagrama de clases del patrón de comportamiento Mediator](src/main/resources/img/image.png)
 
 ## Estructura
 
