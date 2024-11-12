@@ -13,12 +13,12 @@ Este repositorio contiene ejemplos prácticos de los principales patrones de dis
 El objetivo de este proyecto es proporcionar implementaciones claras y funcionales de patrones de diseño de comportamiento. Cada patrón incluye un ejemplo práctico que sigue las mejores prácticas de diseño orientado a objetos y se estructura para ser accesible y didáctico. Estos patrones facilitan el diseño de aplicaciones robustas y escalables, optimizando la forma en que los objetos interactúan y gestionan la lógica de negocio en distintos contextos.
 
 ## Patrones Implementados
-1. [Chain of Responsibility](./ChainOfResponsibilityPattern/): Permite pasar una solicitud a través de una cadena de manejadores hasta encontrar el que la procese.
-2. [Command](./CommandPattern/): Encapsula una solicitud como un objeto, permitiendo parametrizar los clientes con distintas solicitudes.
-3. [Interpreter](./InterpreterPattern/): Define una gramática para representar e interpretar expresiones de un lenguaje específico.
-4. [Iterator](./IteratorPattern/): Proporciona un modo de acceder a los elementos de una colección sin exponer su representación interna.
-5. [Mediator](./MediatorPattern/): Descentraliza la comunicación entre objetos coordinando las interacciones a través de un mediador.
-6. [Visitor](./VisitorPattern/): Permite añadir operaciones a objetos de distintas clases sin cambiar sus definiciones.
+1. [Chain of Responsibility](./ChainOfResponsibilityPattern/)
+2. [Command](./CommandPattern/)
+3. [Interpreter](./InterpreterPattern/)
+4. [Iterator](./IteratorPattern/)
+5. [Mediator](./MediatorPattern/)
+6. [Visitor](./VisitorPattern/)
 
 ## Requisitos
 
