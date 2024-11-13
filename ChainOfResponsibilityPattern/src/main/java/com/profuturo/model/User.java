@@ -1,5 +1,6 @@
 package com.profuturo.model;
 
+// Clase que representa un usuario
 public class User {
     private String username;
     private Role role;
