@@ -6,6 +6,7 @@ import com.profuturo.command.TurnOnCommand;
 import com.profuturo.invoker.RemoteControl;
 import com.profuturo.receiver.Device;
 
+// Cliente que configura el sistema
 public class Main {
     public static void main(String[] args) {
         // Crear el receptor (el dispositivo)
