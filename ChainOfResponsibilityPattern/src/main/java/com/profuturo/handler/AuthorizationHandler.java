@@ -2,6 +2,7 @@ package com.profuturo.handler;
 
 import com.profuturo.model.User;
 
+// Clase abstracta que define la estructura de la cadena de responsabilidad
 public abstract class AuthorizationHandler {
     protected AuthorizationHandler next;
 
