@@ -1,6 +1,6 @@
 # Patrón de Diseño: Iterator
 
-Este proyecto demuestra la implementación del patrón de diseño Iterator. El patrón Iterator permite acceder secuencialmente a los elementos de una colección sin exponer su estructura interna, proporcionando una forma estándar de recorrer diferentes tipos de colecciones.
+Este proyecto demuestra la implementación del patrón de diseño **Iterator**. El patrón Iterator permite acceder secuencialmente a los elementos de una colección sin exponer su estructura interna, proporcionando una forma estándar de recorrer diferentes tipos de colecciones.
 
 ## Objetivo
 El objetivo del patrón Iterator es proporcionar una interfaz uniforme para acceder a los elementos de una colección sin revelar su representación interna. Este patrón permite:
