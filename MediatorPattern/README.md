@@ -15,7 +15,7 @@ El objetivo del patrón Mediator es coordinar la interacción entre objetos para
 1. **Mediator**: Interfaz que declara los métodos para la comunicación entre objetos (colegas).
 2. **ConcreteMediator**: Implementación concreta de Mediator que contiene la lógica para coordinar la comunicación entre los objetos.
 3. **Colleague**: Clase base para los objetos que interactúan a través del mediador, evitando referencias directas entre ellos.
-4. **ConcreteColleague1** y ConcreteColleague2: Clases específicas que representan objetos participantes en la interacción y que se comunican a través del mediador.
+4. **ConcreteColleague1** y **ConcreteColleague2**: Clases específicas que representan objetos participantes en la interacción y que se comunican a través del mediador.
 
 ## Ejecución
 Para ejecutar el proyecto, asegúrate de tener configurado Maven y ejecuta los siguientes comandos:
