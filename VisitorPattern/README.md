@@ -15,7 +15,7 @@ El objetivo del patrón Visitor es permitir la adición de nuevas funcionalidade
 1. **Visitor**: Interfaz que declara los métodos de visita para cada tipo de elemento concreto en la estructura.
 2. **ConcreteVisitor1** y **ConcreteVisitor2**: Implementaciones específicas de visitantes, que realizan operaciones concretas sobre los elementos de la estructura.
 3. **Element**: Interfaz base que declara el método accept para recibir visitantes.
-4. **ConcreteElementA** y ConcreteElementB: Clases concretas que implementan la interfaz Element y aceptan visitantes.
+4. **ConcreteElementA** y **ConcreteElementB**: Clases concretas que implementan la interfaz Element y aceptan visitantes.
 
 ## Ejecución
 Para ejecutar el proyecto, asegúrate de tener configurado Maven y ejecuta los siguientes comandos:
