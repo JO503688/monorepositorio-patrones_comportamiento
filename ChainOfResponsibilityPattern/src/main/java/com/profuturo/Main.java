@@ -7,6 +7,7 @@ import com.profuturo.handler.UserAuthorizationHandler;
 import com.profuturo.model.Role;
 import com.profuturo.model.User;
 
+// Cliente que configura la cadena de autorización y realiza las verificaciones
 public class Main {
     public static void main(String[] args) {
         // Crear manejadores
