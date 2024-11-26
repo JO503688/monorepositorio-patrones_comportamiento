@@ -23,7 +23,7 @@ El objetivo de este proyecto es proporcionar implementaciones claras y funcional
 ## Requisitos
 
 - **Java**: Versión 17 o superior.
-- **Maven**: Versión 3.0 o superior. Para compilar y gestionar dependencias.
+- **Maven**: Versión 3.1.0 o superior. Para compilar y gestionar dependencias.
 
 ## Ejecución de Ejemplos
 
